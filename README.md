@@ -8,3 +8,8 @@
  
  * Optimal policy 
 <img src="https://user-images.githubusercontent.com/68425309/202393397-34b6c6b8-1ac2-4764-a47b-4de9d8f8f2fc.jpg" width="600" height="400"/> 
+
+
+참조 : <혁펜하임 [강화학습] 2-2강. 상태 가치 함수 V & 행동 가치 함수 Q & Optimal policy 쉬운 설명>
+
+(https://www.youtube.com/watch?v=7MdQ-UAhsxA&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&index=4)
