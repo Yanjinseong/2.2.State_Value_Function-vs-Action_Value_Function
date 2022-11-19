@@ -1,5 +1,5 @@
-# 3.1.State_Value_Function-vs-Action_Value_Function
-3.1.상태가치함수(S) vs 행동가치함수(Q) & Optimal policy 개념
+# 2.2.State_Value_Function-vs-Action_Value_Function
+2.2.상태가치함수(S) vs 행동가치함수(Q) & Optimal policy 개념
  * 상태가치함수(S)
  <img src="https://user-images.githubusercontent.com/68425309/202393252-c9d41b05-2251-4c47-8d8a-a29e667ae79a.jpg" width="600" height="400"/> 
  
